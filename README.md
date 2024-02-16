@@ -5,8 +5,9 @@
 `npm i whatsapp-web.js`
 `npm i qrcode-terminal`
 ## yarn
+`yarn add whatsapp-web.js`
 `yarn add qrcode-terminal`
-`yarn add qrcode-terminal`
+
 ---
 # MongoDB Store
 `npm i wwebjs-mongo`
