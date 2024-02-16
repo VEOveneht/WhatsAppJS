@@ -13,4 +13,5 @@
 ---
 # MongoDB Store npm & yarn
 `npm i wwebjs-mongo`
+
 `yarn add wwebjs-mongo`
