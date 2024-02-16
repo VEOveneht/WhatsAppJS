@@ -1,2 +1,15 @@
 # VeoMD
-- Sulit bang, gua gk banyak ngerti MongoDB 😔
+===
+
+# Instalasi
+## npm
+- `npm i whatsapp-web.js`
+- `npm i qrcode-terminal`
+## yarn
+- `yarn add qrcode-terminal`
+- `yarn add qrcode-terminal`
+
+===
+# MongoDB Store
+- `npm i wwebjs-mongo`
+- `yarn add wwebjs-mongo`
