@@ -1,4 +1,4 @@
-# VeoMD
+# <p style="display:"center"">VeoMD</p>
 
 # Instalasi
 ## npm
