@@ -11,6 +11,6 @@
 `yarn add qrcode-terminal`
 
 ---
-# MongoDB Store
+# MongoDB Store npm & yarn
 `npm i wwebjs-mongo`
 `yarn add wwebjs-mongo`
