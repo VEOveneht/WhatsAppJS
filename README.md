@@ -1,14 +1,14 @@
 <h1 align="center">VeoMD</h1>
 
-<h2>Instalasi</h2>
+# Instalasi
 ---
-<h3>npm</h3>
+## npm
 - `npm i whatsapp-web.js`
 - `npm i qrcode-terminal`
-<h3>yarn</h3>
+## yarn
 - `yarn add qrcode-terminal`
 - `yarn add qrcode-terminal`
----
-<h2>MongoDB Store</h2>
+
+# MongoDB Store
 - `npm i wwebjs-mongo`
 - `yarn add wwebjs-mongo`
